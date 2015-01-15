@@ -7,3 +7,7 @@ Resources for making Angular apps with Flux architecture
 [flux-angular](https://github.com/christianalfoni/flux-angular/blob/master/FLUX-ANGULAR-1.md)
 
 [flux-angular (for liberal people)](https://github.com/christianalfoni/flux-angular/blob/master/README.md)
+
+[my example (no architecture)](http://jsbin.com/xipaho/3)
+
+[my example (flux)](http://jsbin.com/julaku/3)
